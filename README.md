@@ -1,4 +1,6 @@
 # Temporal-single-cell-profiling-of-the-parabrachial-Calca-neurons
+Samples: Fixed-tissue single-cell RNA-seq profiling of the left and right PBN from Calca-Cre/+ mice expressing hM3Dq or control mCherry in the right PBN at D0, D3, and D14 after CNO administration.
+
 Python codes for sequencing data analysis
 Python environments
   1) Preprocessing
